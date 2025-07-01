@@ -1,5 +1,19 @@
 # React + TypeScript + Vite
+# Commande pour demarrer le projet : 
 
+
+## git clone lien vers ce repo Github
+## cd frontend 
+## npm i 
+## npm run dev 
+
+# si il y a une erreur :  
+verifier les dependance et bibliothèques non installer par npm i et les installer manuellements
+##  ex: npm install flowbite-react (library for component generator), npm install swr (library for fetch API), etc...
+
+fetch : SWR library 
+
+## pour le bibliothèque de transcriptions c'est : i18n
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
